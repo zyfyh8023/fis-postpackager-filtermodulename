@@ -1,24 +1,24 @@
 {
-  "name": "fis-postpackager-filtermodulename",
+  "name": "fis-postprocessor-filtermodulename",
   "version": "2.0.0",
-  "description": "fis-postpackager-filtermodulename",
+  "description": "fis-postprocessor-filtermodulename",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zyfyh8023/fis-postpackager-filtermodulename.git"
+    "url": "git+https://github.com/zyfyh8023/fis-postprocessor-filtermodulename.git"
   },
   "keywords": [
     "fis",
-    "postpackager",
+    "postprocessor",
     "filtermodulename"
   ],
   "author": "zyfyh8023",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zyfyh8023/fis-postpackager-filtermodulename/issues"
+    "url": "https://github.com/zyfyh8023/fis-postprocessor-filtermodulename/issues"
   },
-  "homepage": "https://github.com/zyfyh8023/fis-postpackager-filtermodulename#readme"
+  "homepage": "https://github.com/zyfyh8023/fis-postprocessor-filtermodulename#readme"
 }
