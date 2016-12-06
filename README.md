@@ -1,2 +1,2 @@
-# fis-postpackager-filtermodulename
-fis-postpackager-filtermodulename
+# fis-postprocessor-filtermodulename
+fis-postprocessor-filtermodulename
